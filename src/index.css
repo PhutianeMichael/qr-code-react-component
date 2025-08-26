@@ -1,0 +1,44 @@
+:root {
+  font-family: 'Outfit', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: light dark;
+  color: hsl(218, 44%, 22%);
+  background-color: hsl(212, 45%, 89%);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background: hsl(212, 45%, 89%);
+  font-family: 'Outfit', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  font-size: 15px;
+  color: hsl(216, 15%, 48%);
+  font-weight: 400;
+  font-family: 'Outfit', system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-family: 'Outfit', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+  font-size: 1.6rem;
+  line-height: 1.2;
+}
