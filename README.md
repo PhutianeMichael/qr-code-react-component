@@ -57,7 +57,7 @@ A simple, accessible QR code card component that adapts to all screen sizes. The
 ## Author
 
 - Frontend Mentor - [@PhutianeMichael](https://www.frontendmentor.io/profile/PhutianeMichael)
-- Twitter - [@mcdeadliez](https://www.twitter.com/yourusername)
+- Twitter - [@mcdeadliez](https://www.twitter.com/mcdeadliez)
 
 ## Acknowledgments
 
