@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/qr-code-react-component/',
   plugins: [react()],
+  base: '/qr-code-react-component/'
 })
