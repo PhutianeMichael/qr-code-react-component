@@ -24,8 +24,8 @@ A simple, accessible QR code card component that adapts to all screen sizes. The
 
 ### Links
 
-- Solution URL: [https://github.com/PhutianeMichael/qr-code-react-component](https://github.com/PhutianeMichael/qr-code-react-component)
-- Live Site URL: [https://github.com/PhutianeMichael/qr-code-react-component](https://github.com/PhutianeMichael/qr-code-react-component)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-react-component-phutianemichael](https://www.frontendmentor.io/solutions/qr-code-react-component-phutianemichael)
+- Live Site URL: [https://phutianemichael.github.io/qr-code-react-component/](https://phutianemichael.github.io/qr-code-react-component/)
 
 ## My process
 
